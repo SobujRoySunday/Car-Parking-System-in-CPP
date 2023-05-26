@@ -10,7 +10,7 @@ This is a simple car parking system implemented in C++. The program allows users
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SobujRoySunday/Car-Parking-System-in-CPP.git
 ```
 
 2. Compile the source code:
